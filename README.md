@@ -1,8 +1,7 @@
 ## Hello! I'm Tomas Wardoloff
-
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tomas-Wardoloff&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas-Wardoloff&layout=compact&lang_count=16&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tomas-Wardoloff&show_icons=true&theme=merko"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas-Wardoloff&layout=compact&theme=merko"/>
 </div>
 
 ##
